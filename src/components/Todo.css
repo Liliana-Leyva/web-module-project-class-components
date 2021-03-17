@@ -29,7 +29,7 @@
 /*App*/
 .App {
   background-color: #eff1db;
-  height: auto;
+  height: fit-content;
   /* display: flex;
   flex-direction: row; */
   text-align: center;
