@@ -1,6 +1,6 @@
 .clear-btn {
-  margin-top: 340px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   padding: 5px;
   font-size: 20px;
 }
@@ -43,4 +43,5 @@
 
 .todo-list {
   background-color: #bbe7fe;
+  height: fit-content;
 }
