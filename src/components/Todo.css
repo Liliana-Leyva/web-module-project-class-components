@@ -1,28 +1,46 @@
 .clear-btn {
-  margin-top: 30px;
-  margin-top: 0;
+  margin-top: 340px;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 20px;
 }
 
 /*Todo Form*/
 
 .todo-form button {
   margin-left: 2px;
+  font-size: 20px;
+  padding: 5px;
 }
 .todo-form {
-  text-align: center;
+  align-items: center;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .task-entry {
   width: 300px;
+  height: 30px;
   font-size: 20px;
+  align-content: center;
 }
 
 /*App*/
 .App {
-  border: red solid 1px;
+  background-color: #eff1db;
   height: auto;
+  /* display: flex;
+  flex-direction: row; */
+  text-align: center;
+  border-radius: 20px;
 }
 
 .App h1 {
-  text-align: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.todo-list {
+  background-color: #bbe7fe;
 }
