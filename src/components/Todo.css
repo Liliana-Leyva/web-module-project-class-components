@@ -14,9 +14,9 @@
 }
 .todo-form {
   align-items: center;
-
-  padding-top: 10px;
-  padding-bottom: 10px;
+  background-color: #f25287;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .task-entry {
@@ -28,7 +28,7 @@
 
 /*App*/
 .App {
-  background-color: #eff1db;
+  background-color: #dddddd;
   height: fit-content;
   /* display: flex;
   flex-direction: row; */
@@ -38,10 +38,13 @@
 
 .App h1 {
   justify-content: center;
-  padding-top: 20px;
+  padding-top: 100px;
 }
 
 .todo-list {
-  background-color: #bbe7fe;
+  background-color: #f7d9d9;
   height: fit-content;
+
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
