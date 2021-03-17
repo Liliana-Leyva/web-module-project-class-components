@@ -1,6 +1,6 @@
 .clear-btn {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 80px;
+  margin-bottom: 80px;
   padding: 5px;
   font-size: 20px;
 }
@@ -15,8 +15,8 @@
 .todo-form {
   align-items: center;
   background-color: #f25287;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .task-entry {
@@ -39,6 +39,7 @@
 .App h1 {
   justify-content: center;
   padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 .todo-list {
